@@ -42,10 +42,4 @@ My name is Maksim. I am a Frontend developer from <b>Samara, Russia.</b></p>
 
 ![codewars](https://www.codewars.com/users/Instep/badges/large)
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Instep1&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Instep1&layout=compact&theme=vision-friendly-dark" />
